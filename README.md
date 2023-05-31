@@ -1,3 +1,5 @@
+#Name:E.sanjay
+##Reg no:212220040143
 # EXPERIMENT--04-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART- USING IOT DEVELOPMENT BOARD 
 ## Aim: To Interface a soil moisture sensor , configure  the ADC and transfer the data through serial port usign USART  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
